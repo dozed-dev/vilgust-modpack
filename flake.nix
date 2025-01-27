@@ -28,7 +28,11 @@
         ];
         shellHook = ''
           export PACKWIZ_ROOT="$(git rev-parse --show-toplevel)/packwiz"
-          alias packwiz='packwiz --pack-file "$PACKWIZ_ROOT/pack.toml" --meta-folder-base "$PACKWIZ_ROOT"'
+          unalias packwiz > /dev/null
+          packwiz-fn () {
+            pushd "$PACKWIZ_ROOT" > /dev/null; packwiz "$@"; popd > /dev/null
+          }
+          alias packwiz=packwiz-fn
         '';
       };
     }
