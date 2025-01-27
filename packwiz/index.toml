@@ -104,6 +104,11 @@ hash = "2a375a9423ee8b9f10bba8457433263412cb328484d94ddf284e467dd41ebf77"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "b4e70e0d9c83d816fbe8b1aafcbf78e3a8f07174d4af7778addb323b374647bd"
+metafile = true
+
+[[files]]
 file = "mods/citresewn.pw.toml"
 hash = "54903e0c688ac551485ad60ff6944b43fbe26bf808705d3a079231d08a8f67a4"
 metafile = true
@@ -186,6 +191,11 @@ metafile = true
 [[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "4ee00a5436bf144f0eca2010a1dc3e4813117ee159e24c51337cfcde6a356eb1"
+metafile = true
+
+[[files]]
+file = "mods/fast-minecart.pw.toml"
+hash = "7f1d6fd22908bf803be16546278cc6e0d763df7686e48534bdf8a892f6825b34"
 metafile = true
 
 [[files]]
@@ -366,6 +376,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "c1e212ee0c2341d74b4a233ca7728a410c6f6d9f1b8258c7db146d05a353ed04"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "2b186a82c5599f1ec1bceafabb0eeb15a424d62c5a6115c780b4f4093ea059b3"
 metafile = true
 
 [[files]]
