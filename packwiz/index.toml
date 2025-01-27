@@ -407,11 +407,6 @@ hash = "08a438f3bc8e725598679eceed1f17e60231183628e5fe6b8b3b59ebac1e0368"
 metafile = true
 
 [[files]]
-file = "mods/rrls.pw.toml"
-hash = "632201db506dce7b7c595e6fbe1736e5ffeba94711bb80d724abf02b9041ffae"
-metafile = true
-
-[[files]]
 file = "mods/scorchful.pw.toml"
 hash = "ac5465e986fcc9103e6b636a63a345f6592de64e7f85bb70729deed4354a87b2"
 metafile = true
