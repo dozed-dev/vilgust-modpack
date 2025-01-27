@@ -134,6 +134,11 @@ hash = "e3dbc76d36c6fdca359b48d56d179da8399dc928dd1ff4d265041eae0d89c480"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "e25f8d5bbea8e14e71fc686644c34f588b97e8e655286101e92824fb547c798d"
+metafile = true
+
+[[files]]
 file = "mods/dynamic_fps.pw.toml"
 hash = "0e9a2871c9da278f08e5e7323e201646f1ec5517ed3361219bdbd56988b0f660"
 metafile = true
@@ -319,8 +324,18 @@ hash = "88e0b9fa2de16838bffaafe1838d9b4d4a562eb216ba8355770caf2f4d4df52a"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "22d2bd35f4752e53e7604168881af536589e1a29df882bc0f2431e38912a58ec"
+metafile = true
+
+[[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "0db86f115a313d0dce5b0068a470f6bf51faab6cbb659a2c84b0cd5e7d187072"
+metafile = true
+
+[[files]]
+file = "mods/particular.pw.toml"
+hash = "7d44aac0137dc9ca5de82b350e1e2602db35f599874627477a42d6e64e6b9403"
 metafile = true
 
 [[files]]
