@@ -33,4 +33,4 @@ done
 cd "$dest/.minecraft"
 packwiz_installer -g -s client "$src/packwiz/pack.toml"
 cd "$dest"
-zip -r "$src/packwiz/qiwi-modpack.zip" .
+zip -r "$src/modpack.zip" .

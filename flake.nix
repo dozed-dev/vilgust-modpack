@@ -7,7 +7,6 @@
   };
 
   outputs = {
-    self,
     nixpkgs,
     flake-utils,
     ...
@@ -27,6 +26,10 @@
           #toml-cli
           #python3Packages.nbtlib
         ];
+        shellHook = ''
+          export PACKWIZ_ROOT="$(git rev-parse --show-toplevel)/packwiz"
+          alias packwiz='packwiz --pack-file "$PACKWIZ_ROOT/pack.toml" --meta-folder-base "$PACKWIZ_ROOT"'
+        '';
       };
     }
   );
