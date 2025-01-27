@@ -5,6 +5,10 @@ file = "config/isxander-main-menu-credits.json"
 hash = "5beb99fb29e66496f56ddd467f73e19b43c9b94ffdfc3dc8b7768c9ef0ed141b"
 
 [[files]]
+file = "config/yosbr/config/DistantHorizons.toml"
+hash = "b47c37d473dddc5663699d40d15aa9e0e205a03ebe06bdfda3572542e00a7425"
+
+[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "616e09c8ff849f4a9a07165a0a3513f468469237377546b64135591fca8a0592"
 
@@ -87,6 +91,10 @@ hash = "59fa5a7fdbcc83cc2dd9a23542d0f950d2e6ba64c368b456c4afc5f8900d8e1d"
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "d69aa39d6e09309454d7d71ea683da297deae278ac657fed289074a0af014a30"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -439,6 +447,20 @@ hash = "3bf16ef57d8e5a916e8971ab9cc7cd90644d82932233b7e1e2293d95680fac4b"
 metafile = true
 
 [[files]]
-file = "mods/zoomify.pw.toml"
-hash = "24f8f1b92dc6199ac4646cf490365eb457740b103e643b85a646bb9b4542eb60"
+file = "resourcepacks/Chat_Reporting_Helper.pw.toml"
+hash = "3a33952de65d450c775ecda6ba7f1ce514b3a7a38cad08decffb7dcb4b7a2c4e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Fast_Better_Grass.pw.toml"
+hash = "084a75f8f0486115c84916e21aa1f5a8e7725d47b416b22010f347d73f0bfcd3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Mod Menu Helper.zip"
+hash = "1104ee52af4be993906e2ef2a1cf1798bc0a417480228019acde4670fa77e61c"
+
+[[files]]
+file = "resourcepacks/Translations_for_Sodium.pw.toml"
+hash = "0033872b37d4f48bd052f635c259966054ec2b095f8e6a8d51073fa8d8f887e3"
 metafile = true
