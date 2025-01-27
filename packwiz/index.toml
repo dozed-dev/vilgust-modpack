@@ -94,6 +94,11 @@ hash = "8cf639c849e6c731af3fba8d8f42fb8aca6e3a9dae102411c38c4c44e6872af7"
 metafile = true
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "b21ef031c6ad139361352529cb63f4799ffa91008895e1c7a9a5102ea007ae2d"
+metafile = true
+
+[[files]]
 file = "mods/bettermounthud.pw.toml"
 hash = "2015444afd860c79fe1ca3737053873cc44cc9cef78c6384a3c82c7df73ee57e"
 metafile = true
@@ -106,6 +111,11 @@ metafile = true
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "b4e70e0d9c83d816fbe8b1aafcbf78e3a8f07174d4af7778addb323b374647bd"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "8d3bd79b5dcb781507857f857b2a0c78cd31ea489f19444ab63cf429d2a64d03"
 metafile = true
 
 [[files]]
@@ -131,6 +141,11 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "0fc3a1d40088236625c545c3f76d61e51cadca7ca1d69a196c3061d36978ae78"
+metafile = true
+
+[[files]]
+file = "mods/cull-less-leaves.pw.toml"
+hash = "e4a437ed5c3f631fd4787e6ad4d61295654aba9d07528a5b692b8e917221ea0d"
 metafile = true
 
 [[files]]
@@ -201,6 +216,11 @@ metafile = true
 [[files]]
 file = "mods/fast-minecart.pw.toml"
 hash = "7f1d6fd22908bf803be16546278cc6e0d763df7686e48534bdf8a892f6825b34"
+metafile = true
+
+[[files]]
+file = "mods/faster-random.pw.toml"
+hash = "605fe60f2ada4333e88ec2fa66cb57d0635292d83eee8d1ad40f2485d72ef013"
 metafile = true
 
 [[files]]
@@ -336,6 +356,11 @@ metafile = true
 [[files]]
 file = "mods/nochatreports.pw.toml"
 hash = "4ed6639a3ee7eb1806bcf14e8fc895ad134d11811b20245269441bb80d1828f7"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "dcc936d7bd32a86ce63fa3bf013864a4e2ed979cb126a915153ac70ce5e5671f"
 metafile = true
 
 [[files]]
