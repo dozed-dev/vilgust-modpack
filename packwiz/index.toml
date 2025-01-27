@@ -194,6 +194,11 @@ hash = "4ee00a5436bf144f0eca2010a1dc3e4813117ee159e24c51337cfcde6a356eb1"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "7822b5ca578ca5245380e2a8afa2fd52ccc08113efe9a6794bc956e2764ac5a3"
+metafile = true
+
+[[files]]
 file = "mods/fast-minecart.pw.toml"
 hash = "7f1d6fd22908bf803be16546278cc6e0d763df7686e48534bdf8a892f6825b34"
 metafile = true
@@ -206,6 +211,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "fdf540c4ae42d59d6c1b8e6a9fb1c8e43e990df12ce2254064d4f40294266417"
+metafile = true
+
+[[files]]
+file = "mods/frostiful.pw.toml"
+hash = "716c12d2442582db0ffcd4d111246afe0dbc785b7aac843980ea7864710fab40"
 metafile = true
 
 [[files]]
@@ -369,6 +379,11 @@ hash = "632201db506dce7b7c595e6fbe1736e5ffeba94711bb80d724abf02b9041ffae"
 metafile = true
 
 [[files]]
+file = "mods/scorchful.pw.toml"
+hash = "ac5465e986fcc9103e6b636a63a345f6592de64e7f85bb70729deed4354a87b2"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "9d9cbcddb3629a1aefa4d4d1150fc725e5423a63f55627aef4c275313a35d08c"
 metafile = true
@@ -376,6 +391,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "c1e212ee0c2341d74b4a233ca7728a410c6f6d9f1b8258c7db146d05a353ed04"
+metafile = true
+
+[[files]]
+file = "mods/thermoo.pw.toml"
+hash = "89e698ed8bef84b57edf0272bc53e034c6ca0806bf4985a55627eedf56867693"
 metafile = true
 
 [[files]]
