@@ -358,11 +358,6 @@ hash = "144f5edd5b84f4127c4ffefd0a7217c8dd962f65ea43b5d030b1b4aee1c190d7"
 metafile = true
 
 [[files]]
-file = "mods/scorchful.pw.toml"
-hash = "b4e7e9891eb1259157badcd61144593a6d12cb698e4b25938a1425e53c633e06"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "df662a9f6d8de32401a5a66eff08a7746211c691b605770c2d131c720d95dfdb"
 metafile = true
