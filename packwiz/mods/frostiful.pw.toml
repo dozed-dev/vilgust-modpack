@@ -1,13 +1,13 @@
 name = "Frostiful"
-filename = "frostiful-2.0.jar"
+filename = "frostiful-2.2.3+1.21.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Ae6qoBj3/versions/Bf4eUQd2/frostiful-2.0.jar"
+url = "https://cdn.modrinth.com/data/Ae6qoBj3/versions/Q6lsqAPN/frostiful-2.2.3%2B1.21.5.jar"
 hash-format = "sha512"
-hash = "94ecd86c8ba38dc48ccf3d745745be21a6a76d204ab58ee8529dfc0304343f57b690f607651bd6589708d2d22aeb215453c4923afb911bc6dab8abe000f2cfc5"
+hash = "cbcabb7d6a41578962ebe2d35ce724756111cdf84f1ebbb1b28a127d9c5afabf137f302f55c8ecb5472d00346913e7b6e30ca3a9fa88a2d208605dc1ff94c31c"
 
 [update]
 [update.modrinth]
 mod-id = "Ae6qoBj3"
-version = "Bf4eUQd2"
+version = "Q6lsqAPN"
