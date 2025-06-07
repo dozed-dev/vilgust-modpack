@@ -198,11 +198,6 @@ hash = "556774f1a32c3967f1ec5b912b1aefb05f44070121ab91c9852d3bde3babd2e3"
 metafile = true
 
 [[files]]
-file = "mods/fast-minecart.pw.toml"
-hash = "7f1d6fd22908bf803be16546278cc6e0d763df7686e48534bdf8a892f6825b34"
-metafile = true
-
-[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "83674a6c4be23f8213bdc2082dcb8b1fc41d6a17ff51bd2a30c678b6f64905b0"
 metafile = true
