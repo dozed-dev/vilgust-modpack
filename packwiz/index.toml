@@ -198,6 +198,11 @@ hash = "556774f1a32c3967f1ec5b912b1aefb05f44070121ab91c9852d3bde3babd2e3"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "175043dd3b77f91adf0ca4cc1ad6b63980ca045dbb54f18a48c2d79d4f4f0946"
+metafile = true
+
+[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "83674a6c4be23f8213bdc2082dcb8b1fc41d6a17ff51bd2a30c678b6f64905b0"
 metafile = true
