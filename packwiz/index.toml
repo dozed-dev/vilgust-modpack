@@ -65,6 +65,10 @@ file = "config/yosbr/config/midnightlib.json"
 hash = "57b848fb6d7c03b6124297de49b1e4cb169e74db042c74aecf79f035ae2f3980"
 
 [[files]]
+file = "config/yosbr/config/modernfix-mixins.properties"
+hash = "ff2fb838e13e529a5939896a0775595c2e0c9d1288c7afca76ff1d3fd5646c97"
+
+[[files]]
 file = "config/yosbr/config/modmenu.json"
 hash = "010db0b80e2020a61272588e82c39aa27a0a4882ce3c5ac0e549c25eabdf460c"
 
@@ -131,11 +135,6 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "9f075846b74aab150aa522b082c50d3e7366be931f6881eece5b0098cdae02bf"
-metafile = true
-
-[[files]]
-file = "mods/controlify.pw.toml"
-hash = "ddadc7d2ac57c53a59455d318a7ced0c34c74be9a39f5b34b2b7f98d6675cfee"
 metafile = true
 
 [[files]]
