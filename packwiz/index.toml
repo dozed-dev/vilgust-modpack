@@ -283,6 +283,11 @@ hash = "a65c7ca933b0a05dc9833a7946533ecadcfdec235c657aaebbdd96f70dbfe1dc"
 metafile = true
 
 [[files]]
+file = "mods/macaws-stairs.pw.toml"
+hash = "0403d90f62582c61a75affde13d0f9020fbe2b9100b8845d8a43bee9ac15bf89"
+metafile = true
+
+[[files]]
 file = "mods/macaws-trapdoors.pw.toml"
 hash = "be09b8beff0bf9bd35d73cbaa299bd22b97d8bc8706005e000e13eba58d39f22"
 metafile = true
@@ -355,6 +360,11 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "144f5edd5b84f4127c4ffefd0a7217c8dd962f65ea43b5d030b1b4aee1c190d7"
+metafile = true
+
+[[files]]
+file = "mods/scorchful.pw.toml"
+hash = "d2585358ea410a09986107df564bcc2821115d5269f3d32c18d4813113db4ebf"
 metafile = true
 
 [[files]]
