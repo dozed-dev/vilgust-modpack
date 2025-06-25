@@ -94,7 +94,7 @@ hash = "d69aa39d6e09309454d7d71ea683da297deae278ac657fed289074a0af014a30"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "57c157ebf3f36495fa14668c3906e70726a83564c7d0071507fc85baa106626c"
+hash = "2a591dc20bd77776dfb60714a83058719a81301d2dfcacdc96e81136c5611dd9"
 metafile = true
 
 [[files]]
@@ -189,7 +189,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7526ccbba405cff20b86350c9e0a59c8c470a59df70abb2fc307b6537a76105b"
+hash = "191d25d191a31ada2de9916f4f6ad9b339c1775b104ea4046e414422a09888bc"
 metafile = true
 
 [[files]]
@@ -384,12 +384,12 @@ metafile = true
 
 [[files]]
 file = "mods/thermoo.pw.toml"
-hash = "2ef04c3ecb306bf0e5dca215301b287d9a626e6bc28bd029269a30ada28191d6"
+hash = "a488c4f8c43b846f19116733f365f6808a46af95696da964e01cd201fd66d43c"
 metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "a9166928c2cb7437ba9536007b784cd35479003c57e93d345902abb366f859e3"
+hash = "3556e54908c94a07ab0ff9bb268d2822e470a9c4ce17441df2361ddaefbdf6fb"
 metafile = true
 
 [[files]]
