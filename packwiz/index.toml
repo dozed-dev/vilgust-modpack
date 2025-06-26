@@ -90,7 +90,7 @@ hash = "37aaf52aa7545527c7ade71ac77ad2fcf6019995bf58b6ea1fe0f52949919d18"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "d69aa39d6e09309454d7d71ea683da297deae278ac657fed289074a0af014a30"
+hash = "1dfa0cf163664c89bb52d452640e9066e4ed7ab5e088f009c49ec16ad79f6ac4"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"

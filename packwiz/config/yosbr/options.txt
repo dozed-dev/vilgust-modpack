@@ -1,5 +1,5 @@
 version:3955
-advancedItemTooltips:true
+advancedItemTooltips:false
 darkMojangStudiosBackground:true
 enableVsync:false
 guiScale:3
