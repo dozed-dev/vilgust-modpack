@@ -93,6 +93,11 @@ file = "config/yosbr/options.txt"
 hash = "1dfa0cf163664c89bb52d452640e9066e4ed7ab5e088f009c49ec16ad79f6ac4"
 
 [[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "cb0ad1fda803dc8efe75a0cb8fb1dbf7dcc2a498d3666768387048e1fd7107f4"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "2a591dc20bd77776dfb60714a83058719a81301d2dfcacdc96e81136c5611dd9"
 metafile = true
@@ -163,11 +168,6 @@ hash = "78c6735a66f74f3f64a18d94e5f8bb4cf4ee72ea7b8c4bf1f908817a291909d1"
 metafile = true
 
 [[files]]
-file = "mods/e4mc_minecraft.pw.toml"
-hash = "959e59afd5001f10992fae18b5230053698fbd84fd03aca80279c74fb244cdad"
-metafile = true
-
-[[files]]
 file = "mods/entity_model_features.pw.toml"
 hash = "891d290dba69d7e8cb1a417bb0bfab7b50c76590668e6964b4a557d1b173a1c3"
 metafile = true
@@ -220,6 +220,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "2c1995439de987e0d42245af1ab23a240babd1f319b4256e5e12147efc298319"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "45fca001415afcc9f6af17c71b6dc1047f56b868c050f754de3bb62d9cb35195"
 metafile = true
 
 [[files]]
@@ -370,6 +375,11 @@ metafile = true
 [[files]]
 file = "mods/scorchful.pw.toml"
 hash = "d2585358ea410a09986107df564bcc2821115d5269f3d32c18d4813113db4ebf"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "cb56fc0d06d19fca9324ae4b1c6e973bc7c968bcdd72aec9b25df3b6fa68c85a"
 metafile = true
 
 [[files]]
