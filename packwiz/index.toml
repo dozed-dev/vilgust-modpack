@@ -94,7 +94,7 @@ hash = "1dfa0cf163664c89bb52d452640e9066e4ed7ab5e088f009c49ec16ad79f6ac4"
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
-hash = "cb0ad1fda803dc8efe75a0cb8fb1dbf7dcc2a498d3666768387048e1fd7107f4"
+hash = "be9caa7a44d1c3a07f309c894c2bccab5b02a5e70671e33a3915950036306466"
 metafile = true
 
 [[files]]
@@ -224,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-sorting.pw.toml"
-hash = "45fca001415afcc9f6af17c71b6dc1047f56b868c050f754de3bb62d9cb35195"
+hash = "e5e4b13cb73271e9c47779a133501c2f7be231938849ec79907aae5a35eff4ba"
 metafile = true
 
 [[files]]
